@@ -66,6 +66,7 @@ class RenderedTarget extends Target {
             vertical_shear: 0,
             repeat_x: 0,
             repeat_y: 0,
+            frost: 0,
 
             //special
             tintColor: 0xffffff + 1
